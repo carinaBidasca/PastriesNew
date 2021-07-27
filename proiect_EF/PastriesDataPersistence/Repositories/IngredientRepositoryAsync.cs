@@ -104,7 +104,7 @@ namespace PastriesDataPersistence.Repositories
 
             return result;
         }
-        //get ingredient by quantity
+        //get ingredient by name
         public async Task<Ingredient> GetByName(string Name)
         {
             var result = await _context.Ingredients.FirstOrDefaultAsync(x => x.Name == Name);
