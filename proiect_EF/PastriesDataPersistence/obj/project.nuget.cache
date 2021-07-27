@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zug8Z16EK3a5JR4ogQqznidcCprH0RpSg6AWrhLKYSYKakD9gNl7KdgCNJtMGf2LDeZ+jzsDaqjVyeyAaGV/IQ==",
+  "dgSpecHash": "TowXO5tbg/UXhpiwpjuZY15qLW3QcoHZXALCs/9WuK/MYtK3GTr6snoIbb4/ibqJ+5UmsdvUjgmkL/N6Hf24dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesDataPersistence\\PastriesDataPersistence.csproj",
+  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\PastriesNew\\proiect_EF\\PastriesDataPersistence\\PastriesDataPersistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

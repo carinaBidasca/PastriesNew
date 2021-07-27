@@ -29,7 +29,7 @@ namespace PastriesDataPersistence.Repositories
             _ingredients.Add(i4);
             _ingredients.Add(i5);*/
         }
-
+       
         /// <summary>
         /// Add the new ingredient to the collection.
         /// </summary>
@@ -103,6 +103,11 @@ namespace PastriesDataPersistence.Repositories
                 .FirstOrDefaultAsync(x => x.Id == id);
 
             return result;
+        }
+        //get ingredient by quantity
+        public Task<Ingredient> GetByName(string Name)
+        {
+            throw new NotImplementedException();
         }
 
         /// <summary>

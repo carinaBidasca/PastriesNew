@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R7/bKBKbqEXY1RZ0N0AK/YKftv79k05snMvW9959dWRnaGwe20jEp5cfH/nV2Xfs04npebo1DF6hf2PEyUbtzQ==",
+  "dgSpecHash": "SY4k2SYE0p7O83KT/n2ladoyUx/g9us5h3nsICq3/Pv2/LU0vLeu7W54eTqDCj2bav7M1ir1sq1O8IF6w/N7hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesData\\PastriesData.csproj",
+  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\PastriesNew\\proiect_EF\\PastriesData\\PastriesData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

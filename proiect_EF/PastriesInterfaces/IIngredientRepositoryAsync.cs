@@ -14,7 +14,7 @@ namespace PastriesInterfaces
         /// <param name="id"></param>
         /// <returns></returns>
         Task<Ingredient> GetByIdAsync(int id);
-
+        Task<Ingredient> GetByName(string Name);
         /// <summary>
         /// Get all ingredients, in a paged format.
         /// </summary>

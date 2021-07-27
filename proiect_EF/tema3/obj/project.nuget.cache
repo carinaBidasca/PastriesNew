@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0NjeIcDybNCFoxUEbdM/sEwAVaM6GGhevaDCx32/vtk66zvCy3ZgH3AuiCLwusuvOCgMEONJ8yiD5nfgMDPxQ==",
+  "dgSpecHash": "vIipVI1wWFRoyBZGudr1j82ctqdY5ksQAAv/nNOcS3trG0Uxg4DzsexZCzaTp2tIqvxZdJVcE96843YwLGkMCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\tema3\\tema3.csproj",
+  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\PastriesNew\\proiect_EF\\tema3\\tema3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",

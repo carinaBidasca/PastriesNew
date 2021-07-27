@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlCgdCazg+HMgxCaIeFKylB6CPrRCxd5dbIfxiBjyGRwYP2zn1e4DWSu3UVS3lbrBkRJYetsS3rUQp667iFQHQ==",
+  "dgSpecHash": "QXRfyM+y8q3ZrnJaeBM95KvXlMccxhgSdj686BiOi79P4MZgLzUmd6YvwSh3Q2adkf0KGFhBxwDhPolrKk3k0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesServices\\PastriesServices.csproj",
+  "projectFilePath": "C:\\Users\\carina.bidasca\\Documents\\PastriesNew\\proiect_EF\\PastriesServices\\PastriesServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.8\\microsoft.aspnetcore.cryptography.internal.5.0.8.nupkg.sha512",
     "C:\\Users\\carina.bidasca\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.8\\microsoft.aspnetcore.cryptography.keyderivation.5.0.8.nupkg.sha512",
